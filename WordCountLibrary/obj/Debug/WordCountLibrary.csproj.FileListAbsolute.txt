@@ -1,0 +1,6 @@
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\WordCountLibrary\WordCountLibrary\bin\Debug\WordCountLibrary.dll
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\WordCountLibrary\WordCountLibrary\bin\Debug\WordCountLibrary.pdb
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\WordCountLibrary\WordCountLibrary\obj\Debug\WordCountLibrary.csproj.AssemblyReference.cache
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\WordCountLibrary\WordCountLibrary\obj\Debug\WordCountLibrary.csproj.CoreCompileInputs.cache
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\WordCountLibrary\WordCountLibrary\obj\Debug\WordCountLibrary.dll
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\WordCountLibrary\WordCountLibrary\obj\Debug\WordCountLibrary.pdb
